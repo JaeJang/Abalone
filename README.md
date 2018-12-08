@@ -11,12 +11,17 @@ AI searches and chooses best choice based on assigned heuristic function in dept
 
 ![player](https://user-images.githubusercontent.com/25515692/49691018-b9bafd00-faee-11e8-97d2-7af9ad6445ff.JPG)
 
-User can play against either another user or Computer.
+*User can play against either another user or Computer.*
+
+
 
 
 ![board](https://user-images.githubusercontent.com/25515692/49691012-a871f080-faee-11e8-95f1-c9676a735f94.JPG)
 
-There are 3 different initial board layout
+*There are 3 different initial board layout*
+
+
+
 
 
 ### In game screens
